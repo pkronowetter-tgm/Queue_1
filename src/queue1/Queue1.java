@@ -4,6 +4,7 @@ package queue1;
  * Eine einfache Queue (Schlange) von Objekten. 
  * Eine Queue funktioniert nach der 
  * FIFO-Methode - first in first out.
+ * 
  * @author Johann Weiser
  * @version 2014-03-14
  */
